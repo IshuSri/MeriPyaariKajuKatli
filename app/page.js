@@ -8,7 +8,7 @@ export default function Home() {
       </h1>
 
       <Link
-        href="/nikita"
+        href="/laddu"
         className="px-6 py-3 rounded-xl bg-rose-500 text-white hover:bg-rose-600 transition"
       >
         Open Story
